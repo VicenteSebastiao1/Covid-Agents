@@ -1,0 +1,16 @@
+@@Author Vicente Sebastião
+
+Instructions:
+
+
+Please find the Dissertation Resource Allocation Simulator Code
+
+This is an Agent based Simulation of Resource allocation in a Covid Hospital simulation. 
+To run the code, you first unzip the file and then through terminal or cmd prompt navigate to the "sim" folder. After that you run "python run.py"
+
+% cd Downloads/COVID-Resource-Allocation-Simulator/sim
+
+(base) s0k0ad5@m-j37lf09kyf sim % python run.py
+
+
+In the main folder you will see the "requirements.txt" file. In the system, you have to install those python packages to run the code. You might face errors if some of the libraries are not installed. 
